@@ -1,3 +1,5 @@
+Projeto proposto na matéria de Modelagem de Dados. 
+
 # modelagemdedados
 Implementação e Manipulação de Dados
 EP4-SQL-Fisioterapia/
